@@ -28,4 +28,6 @@ class Teste_produtos():
         self.driver.find_element(By.ID, "ContentSite_txtPassword").click()
         self.driver.find_element(By.ID, "ContentSite_txtPassword").send_keys("             ")
         self.driver.find_element(By.ID, "ContentSite_ibtContinue").click()
-  
+
+        
+       
